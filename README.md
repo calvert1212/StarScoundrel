@@ -1,3 +1,4 @@
+<img width="866" height="611" alt="Image" src="https://github.com/user-attachments/assets/3baddc33-794c-4af5-8730-7073935ec49d" />
 # Space Scoundrels: An ASCII Space Invaders Game
 
 ## Table of Contents
