@@ -31,6 +31,7 @@
 
 ## How to Play
 
+0.  **Compile and Run**: While in the StarScoundrel directory in your shell, enter ./run_game.sh
 1.  **Start the Game**: Run the executable from your terminal. You will be greeted by the "STAR SCOUNDRELS" title screen.
 2.  **Navigate Menus**: Press any key to start the game from the title screen. Press 'q' to quit the game from the title screen.
 3.  **Player Movement**: Use the 'a' key or the Left Arrow key to move your ship left.
